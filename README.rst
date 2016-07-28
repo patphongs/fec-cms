@@ -1,4 +1,3 @@
-
 Campaign finance for everyone
 =============================
 The Federal Election Commission (FEC) releases information to the public about money that’s raised and spent in federal elections — that’s elections for US president, Senate, and House of Representatives.
